@@ -24,4 +24,4 @@ A repository for Design and Analysis of Algorithms in C++.
 Contributions and suggestions are always welcomed!
 
 # Authors
-@shubanms
+[@shubanms](https://github.com/shubanms)
