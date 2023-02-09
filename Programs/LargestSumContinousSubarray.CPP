@@ -20,7 +20,7 @@ int maxSubArraySum(int a[], int size)
 
 int main()
 {
-    int a[] = { -2, -3, 4, -1, -2, 1, 5, -3 };
+    int a[] = { -2,-5,6,-2,-3,1,5,-6};
     int n = sizeof(a) / sizeof(a[0]);
  
     int max_sum = maxSubArraySum(a, n);
